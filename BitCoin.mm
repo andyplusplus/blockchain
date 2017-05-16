@@ -1,9 +1,9 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="&#x5171;&#x4eab;&#x5355;&#x8f66;&#x5e73;&#x53f0;" FOLDED="false" ID="ID_171579464" CREATED="1491556975105" MODIFIED="1494815377372" STYLE="oval">
+<node TEXT="&#x5e73;&#x53f0;" FOLDED="false" ID="ID_171579464" CREATED="1491556975105" MODIFIED="1494924234562" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle" zoom="1.61">
-    <properties fit_to_viewport="false;" show_note_icons="true"/>
+    <properties fit_to_viewport="false;" show_note_icons="true" show_icon_for_attributes="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -81,7 +81,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="18" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="19" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="Software" POSITION="right" ID="ID_422380344" CREATED="1494815392923" MODIFIED="1494818953340">
 <edge COLOR="#00ffff"/>
 <node TEXT="Core Bitcoin (C++)" ID="ID_65109801" CREATED="1494818954384" MODIFIED="1494818976272"/>
@@ -90,8 +90,86 @@
 <node TEXT="btcd(Go)" ID="ID_871411363" CREATED="1494818998175" MODIFIED="1494819003321"/>
 <node TEXT="Original Satoshi Client" ID="ID_1012756510" CREATED="1494826612752" MODIFIED="1494826619522"/>
 </node>
-<node TEXT="&#x4f18;&#x5316;&#x8f66;&#x8f86;&#x5e03;&#x5c40;" POSITION="right" ID="ID_39885065" CREATED="1494815401507" MODIFIED="1494815478820">
+<node TEXT="Client" POSITION="right" ID="ID_39885065" CREATED="1494815401507" MODIFIED="1494921917572">
 <edge COLOR="#7c0000"/>
+<node TEXT="Multibit" ID="ID_693220647" CREATED="1494921923500" MODIFIED="1494922088742" LINK="https://github.com/bitcoinbook/bitcoinbook/blob/first_edition/ch01.asciidoc#multibit-welcome"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span style="color: rgb(0, 102, 33); font-family: Roboto, arial, sans-serif; font-size: 14px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: nowrap; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none"><font color="rgb(0, 102, 33)" face="Roboto, arial, sans-serif" size="14px">https://multibit.org/</font></span>
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="blockchain&#xa;explorer" POSITION="right" ID="ID_760542043" CREATED="1494924252873" MODIFIED="1494924296103">
+<edge COLOR="#007c00"/>
+<node TEXT="Blockchain info" ID="ID_1493999478" CREATED="1494924363327" MODIFIED="1494924421735" LINK="https://blockchain.info/"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      https://blockchain.info/
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="Bitcoin Block Explorer" ID="ID_191422383" CREATED="1494924363327" MODIFIED="1494924428814" LINK="http://blockexplorer.com/"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      http://blockexplorer.com/
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="insight" ID="ID_278626538" CREATED="1494924363328" MODIFIED="1494924451490"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      http://insight.bitpay.com/
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="blockr Block Reader" ID="ID_797533382" CREATED="1494924363329" MODIFIED="1494924488843"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      http://blockr.io/
+    </p>
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 </map>
