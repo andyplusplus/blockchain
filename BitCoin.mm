@@ -1,6 +1,6 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="&#x5e73;&#x53f0;" FOLDED="false" ID="ID_171579464" CREATED="1491556975105" MODIFIED="1494924234562" STYLE="oval">
+<node TEXT="&#x5e73;&#x53f0;" FOLDED="false" ID="ID_171579464" CREATED="1491556975105" MODIFIED="1494925608322" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle" zoom="1.61">
     <properties fit_to_viewport="false;" show_note_icons="true" show_icon_for_attributes="true"/>
@@ -82,6 +82,20 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="19" RULE="ON_BRANCH_CREATION"/>
+<richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1/100,000,000 th: a satoshi
+    </p>
+  </body>
+</html>
+
+</richcontent>
 <node TEXT="Software" POSITION="right" ID="ID_422380344" CREATED="1494815392923" MODIFIED="1494818953340">
 <edge COLOR="#00ffff"/>
 <node TEXT="Core Bitcoin (C++)" ID="ID_65109801" CREATED="1494818954384" MODIFIED="1494818976272"/>
