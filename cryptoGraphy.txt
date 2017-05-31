@@ -1,0 +1,5 @@
+Understanding Cryptography: A Textbook for Students and Practitioners 
+https://www.amazon.com/Understanding-Cryptography-Textbook-Students-Practitioners/dp/3642041000/ref=sr_1_18?s=books&ie=UTF8&qid=1495432408&sr=1-18&keywords=cryptography
+
+Applied Cryptography: Protocols, Algorithms, and Source Code in C
+https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/1119096723/ref=sr_1_10?ie=UTF8&qid=1495432077&sr=8-10&keywords=cryptography#customerReviews
