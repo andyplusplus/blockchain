@@ -1,6 +1,6 @@
 <map version="freeplane 1.5.9">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="&#x533a;&#x5757;&#x94fe;" FOLDED="false" ID="ID_171579464" CREATED="1491556975105" MODIFIED="1496973607631" STYLE="oval">
+<node TEXT="&#x533a;&#x5757;&#x94fe;" FOLDED="false" ID="ID_171579464" CREATED="1491556975105" MODIFIED="1496989221652" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle" zoom="3.451">
     <properties fit_to_viewport="false;" show_note_icons="true" show_icon_for_attributes="true"/>
@@ -81,7 +81,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="23" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="26" RULE="ON_BRANCH_CREATION"/>
 <richcontent TYPE="NOTE">
 
 <html>
@@ -95,6 +95,21 @@
       </li>
       <li>
         <font size="6">&#26356;&#22810;&#20449;&#24687;&#65306;http://wangxiaoming.com&#160;&#160;&#160;&#160;ethcast.com </font>
+      </li>
+      <li>
+        <font size="6">&#36135;&#24065;&#36229;&#21457;&#26159;&#25919;&#24220;&#23545;&#20154;&#27665;&#36130;&#23500;&#25504;&#22842;&#26368;&#31616;&#21333;&#26377;&#25928;&#30340;&#26041;&#27861;</font>
+      </li>
+      <li>
+        <font size="6">&#27604;&#29305;&#24065;&#36890;&#36807;coinbase&#20132;&#26131;&#21457;&#29983;</font>
+      </li>
+      <li>
+        <font size="6">transaction&#21253;&#21547;n&#20010;input&#65292;m&#20010;output </font>
+      </li>
+      <li>
+        <font size="6">&#12290; </font>
+      </li>
+      <li>
+        <font size="6">&#12290; </font>
       </li>
     </ul>
   </body>
@@ -255,13 +270,78 @@
 <node TEXT="&#x53cb;&#x597d;&#x4ea4;&#x4e92;&#x63a5;&#x53e3;" ID="ID_1160869201" CREATED="1496972672120" MODIFIED="1496972683960"/>
 </node>
 </node>
-<node TEXT="&#x5f00;&#x53d1;&#x6846;&#x67b6;" FOLDED="true" ID="ID_1327361070" CREATED="1496972720255" MODIFIED="1496973614096">
+<node TEXT="&#x5f00;&#x53d1;&#x6846;&#x67b6;" ID="ID_1327361070" CREATED="1496972720255" MODIFIED="1496973614096">
 <node TEXT="Truffle" ID="ID_536074650" CREATED="1496972726047" MODIFIED="1496972731616">
 <node TEXT="&#x6700;&#x4e3b;&#x6d41;&#x7684;&#x5f00;&#x53d1;&#x6846;&#x67b6;" ID="ID_1616267097" CREATED="1496972738607" MODIFIED="1496972743912"/>
 </node>
 <node TEXT="Embark" ID="ID_1908312768" CREATED="1496972732095" MODIFIED="1496972734400"/>
 <node TEXT="Dapple" ID="ID_1109960438" CREATED="1496972734745" MODIFIED="1496972736080"/>
 </node>
+</node>
+<node TEXT="&#x5e94;&#x7528;&#x6848;&#x4f8b;" FOLDED="true" POSITION="right" ID="ID_887913469" CREATED="1496973939608" MODIFIED="1496974004034">
+<edge COLOR="#0000ff"/>
+<node TEXT="&#x91d1;&#x878d;" ID="ID_179951447" CREATED="1496973959976" MODIFIED="1496974010768">
+<node TEXT="&#x5bc6;&#x7801;&#x5b66;&#x8d27;&#x5e01;" ID="ID_960073170" CREATED="1496974021192" MODIFIED="1496974041689"/>
+<node TEXT="&#x6c47;&#x6b3e;&#x4e0e;&#x652f;&#x4ed8;" ID="ID_1025494843" CREATED="1496975222401" MODIFIED="1496975234313"/>
+<node TEXT="&#x6e05;&#x7b97;&#x4e0e;&#x7ed3;&#x7b97;" ID="ID_1319040986" CREATED="1496975236503" MODIFIED="1496975261057"/>
+<node TEXT="&#x667a;&#x80fd;&#x5408;&#x7ea6;" ID="ID_1561820355" CREATED="1496975262480" MODIFIED="1496975273985"/>
+<node TEXT="&#x667a;&#x6167;&#x8d44;&#x4ea7;" ID="ID_352300796" CREATED="1496975274167" MODIFIED="1496975280960"/>
+<node TEXT="&#x7b2c;&#x4e09;&#x65b9;&#x62c5;&#x4fdd;" ID="ID_1864277203" CREATED="1496975281464" MODIFIED="1496975306248"/>
+</node>
+<node TEXT="&#x975e;&#x91d1;&#x878d;" ID="ID_824002155" CREATED="1496974011311" MODIFIED="1496974014473">
+<node TEXT="&#x6570;&#x5b57;&#x8eab;&#x4efd;" ID="ID_490467597" CREATED="1496975311759" MODIFIED="1496975332112"/>
+<node TEXT="&#x4ea7;&#x6743;&#x8bc1;&#x660e;" ID="ID_1110628528" CREATED="1496975332591" MODIFIED="1496975338816"/>
+<node TEXT="&#x8ddf;&#x8e2a;&#x8ffd;&#x6eaf;" ID="ID_297970952" CREATED="1496975339463" MODIFIED="1496975376545"/>
+<node TEXT="&#x9009;&#x4e3e;" ID="ID_1985367599" CREATED="1496975377175" MODIFIED="1496975390584"/>
+<node TEXT="&#x8bb0;&#x5f55;&#x7ba1;&#x7406;" ID="ID_142417494" CREATED="1496975391136" MODIFIED="1496975402328"/>
+<node TEXT="&#x8d44;&#x4ea7;&#x7ba1;&#x7406;" ID="ID_454183141" CREATED="1496975403199" MODIFIED="1496975407752"/>
+<node TEXT="&#x571f;&#x5730;&#x4e0e;&#x4e0d;&#x52a8;&#x4ea7;" ID="ID_1741276831" CREATED="1496975409463" MODIFIED="1496975432593">
+<node TEXT="&#x667a;&#x80fd;&#x5408;&#x7ea6;" ID="ID_1179520286" CREATED="1496975513999" MODIFIED="1496975532449"/>
+<node TEXT="&#x865a;&#x62df;&#x516c;&#x8bc1;" ID="ID_498506108" CREATED="1496975533839" MODIFIED="1496975544393"/>
+<node TEXT="&#x571f;&#x5730;&#x8d27;&#x5e01;" ID="ID_320741125" CREATED="1496975551431" MODIFIED="1496975563912"/>
+</node>
+<node TEXT="&#x7269;&#x8054;&#x7f51;" ID="ID_1905148375" CREATED="1496976706727" MODIFIED="1496976713984">
+<node TEXT="&#x98df;&#x54c1;&#x5b89;&#x5168;" ID="ID_276407624" CREATED="1496977744591" MODIFIED="1496977750568"/>
+</node>
+</node>
+<node TEXT="&#x5177;&#x4f53;&#x6848;&#x4f8b;" ID="ID_259461197" CREATED="1496986987880" MODIFIED="1496986998096">
+<node TEXT="&#x7eb3;&#x65af;&#x8fbe;&#x514b;&#x9996;&#x6b21;&#x5728;&#x4e2a;&#x80a1;&#x4ea4;&#x6613;&#x4e0a;&#x8fd0;&#x7528;&#x533a;&#x5757;&#x94fe;&#x6280;&#x672f;_&#x9ad8;&#x6e05;" ID="ID_572156560" CREATED="1496987058898" MODIFIED="1496987058898"/>
+<node TEXT="&#x6df1;&#x5733;&#x5927;&#x5b66;&#x533a;&#x5757;&#x94fe;&#x6295;&#x7968;&#x7cfb;&#x7edf;" ID="ID_229446449" CREATED="1496987083028" MODIFIED="1496987083028"/>
+<node TEXT="&#x4e2d;&#x5357;&#x5efa;&#x8bbe;&#x643a;&#x5317;&#x5927;&#x8352;&#x6253;&#x9020;&#x5168;&#x7403;&#x9996;&#x4e2a;&#x533a;&#x5757;&#x94fe;&#x519c;&#x573a; 20170425" ID="ID_1299180842" CREATED="1496987123251" MODIFIED="1496987138834"/>
+<node TEXT="BCIA-&#x57fa;&#x4e8e;&#x533a;&#x5757;&#x94fe;&#x7684;&#x7269;&#x8054;&#x7f51;&#x6570;&#x636e;&#x76d1;&#x6d4b;&#x89e3;&#x51b3;&#x65b9;&#x6848;" ID="ID_1460643277" CREATED="1496987158770" MODIFIED="1496987158770"/>
+<node TEXT="&#x6c83;&#x5c14;&#x739b;&#x901a;&#x8fc7;&#x533a;&#x5757;&#x94fe;&#x4fdd;&#x8bc1;&#x98df;&#x54c1;&#xff08;&#x732a;&#x8089;&#xff09;&#x5b89;&#x5168;" ID="ID_745500382" CREATED="1496987271111" MODIFIED="1496987296745"/>
+</node>
+</node>
+<node TEXT="&#x5176;&#x5b83;" POSITION="left" ID="ID_1019103074" CREATED="1496988175560" MODIFIED="1496988179688">
+<edge COLOR="#00ff00"/>
+<node TEXT="&#x7cbe;&#x901a;&#x6bd4;&#x7279;&#x5e01;&#xa;&#x73a9;&#x8f6c;&#x4ee5;&#x592a;&#x574a;&#xa;&#x641e;&#x5b9a;Hyperledger" ID="ID_786884549" CREATED="1496988180720" MODIFIED="1496988988058"/>
+</node>
+<node TEXT="&#x76f8;&#x5173;&#x9879;&#x76ee;" POSITION="left" ID="ID_1444540615" CREATED="1496989110536" MODIFIED="1496989115122">
+<edge COLOR="#ff00ff"/>
+<node TEXT="Bitcoin" ID="ID_1536549902" CREATED="1496989117864" MODIFIED="1496989121256"/>
+<node TEXT="Hyperledger" ID="ID_1214423585" CREATED="1496989121991" MODIFIED="1496989125145">
+<node TEXT="Open Block Chain" ID="ID_1300813151" CREATED="1496989872680" MODIFIED="1496989941735"><richcontent TYPE="NOTE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        <font size="6">IBM&#24050;&#26377;&#30340;&#24320;&#28304;&#20195;&#30721;</font>
+      </li>
+      <li>
+        <font size="6">&#12290;</font>
+      </li>
+    </ul>
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
+<node TEXT="Ethereum" ID="ID_927939549" CREATED="1496989125768" MODIFIED="1496989130809"/>
 </node>
 </node>
 </map>
