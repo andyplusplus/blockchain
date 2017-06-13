@@ -2,8 +2,8 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="&#x533a;&#x5757;&#x94fe;" FOLDED="false" ID="ID_171579464" CREATED="1491556975105" MODIFIED="1496989221652" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle" zoom="3.451">
-    <properties fit_to_viewport="false;" show_note_icons="true" show_icon_for_attributes="true"/>
+<hook NAME="MapStyle" zoom="1.948">
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -114,9 +114,8 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
-<node FOLDED="true" POSITION="right" ID="ID_1805504442" CREATED="1496973600886" MODIFIED="1496973600890"><richcontent TYPE="NODE">
+<node POSITION="right" ID="ID_1805504442" CREATED="1496973600886" MODIFIED="1496973600890"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -128,11 +127,10 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#ff0000"/>
 <node TEXT="&#x533a;&#x5757;&#x94fe;" ID="ID_1098878883" CREATED="1496970793456" MODIFIED="1496973614086">
-<node TEXT="&#x4ec0;&#x4e48;&#x662f;&#x533a;&#x5757;&#x94fe;" FOLDED="true" ID="ID_1128603180" CREATED="1491557176909" MODIFIED="1496970819663">
+<node TEXT="&#x4ec0;&#x4e48;&#x662f;&#x533a;&#x5757;&#x94fe;" ID="ID_1128603180" CREATED="1491557176909" MODIFIED="1496970819663">
 <node TEXT="&#x5206;&#x5e03;&#x5f0f;&#x8d26;&#x672c;" ID="ID_940073678" CREATED="1496970550656" MODIFIED="1496970565697">
 <node TEXT="&#x4e0d;&#x53ef;&#x7be1;&#x6539;" ID="ID_161104271" CREATED="1496970566904" MODIFIED="1496970604217"/>
 <node TEXT="&#x53ef;&#x8ffd;&#x6eaf;" ID="ID_1295086190" CREATED="1496970605535" MODIFIED="1496970613400"/>
@@ -148,7 +146,7 @@
 <node TEXT="&#x8ba1;&#x7b97;&#x673a; vs &#x8ba1;&#x7b97;&#x673a;" ID="ID_533247009" CREATED="1496970762384" MODIFIED="1496970770689"/>
 </node>
 </node>
-<node TEXT="&#x53d1;&#x5c55;&#x5386;&#x53f2;" FOLDED="true" ID="ID_1922631959" CREATED="1496970841504" MODIFIED="1496973614086">
+<node TEXT="&#x53d1;&#x5c55;&#x5386;&#x53f2;" ID="ID_1922631959" CREATED="1496970841504" MODIFIED="1496973614086">
 <node TEXT="2013&#x5e74;&#x5e95;Vitalik&#x63d0;&#x51fa;&#x60f3;&#x6cd5;&#xff0c;2014&#x5e74;&#x4f17;&#x7b79;&#x4e86;1800&#x591a;&#x4e07;&#x7f8e;&#x91d1;" ID="ID_1585182263" CREATED="1496970863143" MODIFIED="1496970925361"/>
 <node TEXT="&#x96c7;&#x4f63;&#x4e86;&#x591a;&#x4e2a;&#x5168;&#x804c;&#x56e2;&#x961f;&#x5f00;&#x53d1;&#x4e86;&#x591a;&#x79cd;&#x8bed;&#x8a00;&#x7684;&#x7248;&#x672c;" ID="ID_1397379450" CREATED="1496970926088" MODIFIED="1496971008278"><richcontent TYPE="NOTE">
 
@@ -162,11 +160,10 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
-<node TEXT="&#x4ee5;&#x592a;&#x574a;&#x6838;&#x5fc3;&#x6982;&#x5ff5;" FOLDED="true" ID="ID_1884223588" CREATED="1496971030048" MODIFIED="1496973614087">
+<node TEXT="&#x4ee5;&#x592a;&#x574a;&#x6838;&#x5fc3;&#x6982;&#x5ff5;" ID="ID_1884223588" CREATED="1496971030048" MODIFIED="1496973614087">
 <node TEXT="&#x4ee5;&#x592a;&#x574a;&#x865a;&#x62df;&#x673a;&#xff08;EVM&#xff09;" ID="ID_1265120229" CREATED="1496971048951" MODIFIED="1496971061321">
 <node TEXT="&#x9694;&#x79bb;&#x73af;&#x5883;&#xff0c;&#x5916;&#x90e8;&#x8bbf;&#x95ee;&#x53d7;&#x9650;" ID="ID_1831129243" CREATED="1496971092224" MODIFIED="1496971112032"/>
 <node TEXT="&#x7c7b;&#x6bd4;java&#x7684;VM" ID="ID_287807716" CREATED="1496971115375" MODIFIED="1496971257841">
@@ -182,7 +179,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -211,7 +207,7 @@
 </node>
 </node>
 </node>
-<node TEXT="&#x4e09;&#x79cd;&#x94fe;" FOLDED="true" ID="ID_769306084" CREATED="1496972019848" MODIFIED="1496973614087">
+<node TEXT="&#x4e09;&#x79cd;&#x94fe;" ID="ID_769306084" CREATED="1496972019848" MODIFIED="1496973614087">
 <node TEXT="&#x516c;&#x6709;&#x94fe;" ID="ID_1787042676" CREATED="1496972027048" MODIFIED="1496972052456">
 <node TEXT="BTC, ETH" ID="ID_1363732125" CREATED="1496972056423" MODIFIED="1496972064729"/>
 </node>
@@ -225,7 +221,7 @@
 <node TEXT="&#x4e00;&#x4e2a;&#x7ec4;&#x7ec7;" ID="ID_1724534422" CREATED="1496972159967" MODIFIED="1496972163624"/>
 </node>
 </node>
-<node TEXT="&#x4ee5;&#x592a;&#x574a;&#x5ba2;&#x6237;&#x7aef;" FOLDED="true" ID="ID_1522379887" CREATED="1496972186792" MODIFIED="1496973614088">
+<node TEXT="&#x4ee5;&#x592a;&#x574a;&#x5ba2;&#x6237;&#x7aef;" ID="ID_1522379887" CREATED="1496972186792" MODIFIED="1496973614088">
 <node TEXT="go-ethereum" ID="ID_564937912" CREATED="1496972199848" MODIFIED="1496972210768">
 <node TEXT="&#x5b98;&#x65b9;&#x63a8;&#x8350;&#xff0c;&#x4f7f;&#x7528;&#x6700;&#x591a;" ID="ID_1852590900" CREATED="1496972287895" MODIFIED="1496972303888"/>
 </node>
@@ -241,7 +237,7 @@
 <node TEXT="geth --datadir &quot;~/ethdev&quot; --dev" ID="ID_1682538993" CREATED="1496972439763" MODIFIED="1496972478785"/>
 <node TEXT="geth --dev console 2 &gt;&gt; geth.log" ID="ID_1039513566" CREATED="1496972459944" MODIFIED="1496972475972"/>
 </node>
-<node TEXT="&#x5f00;&#x53d1;&#x8bed;&#x8a00;" FOLDED="true" ID="ID_1027401597" CREATED="1496972491800" MODIFIED="1496973614089">
+<node TEXT="&#x5f00;&#x53d1;&#x8bed;&#x8a00;" ID="ID_1027401597" CREATED="1496972491800" MODIFIED="1496973614089">
 <node TEXT="solidity" ID="ID_1017736019" CREATED="1496972505648" MODIFIED="1496972513112">
 <node TEXT="&#x7c7b;javascript" ID="ID_608449918" CREATED="1496972518280" MODIFIED="1496972526904">
 <node TEXT="&#x4ee5;&#x592a;&#x574a;&#x6700;&#x6d41;&#x884c;&#x7684;&#x5f00;&#x53d1;&#x8bed;&#x8a00;" ID="ID_1181460088" CREATED="1496972548007" MODIFIED="1496972567945"/>
@@ -278,7 +274,7 @@
 <node TEXT="Dapple" ID="ID_1109960438" CREATED="1496972734745" MODIFIED="1496972736080"/>
 </node>
 </node>
-<node TEXT="&#x5e94;&#x7528;&#x6848;&#x4f8b;" FOLDED="true" POSITION="right" ID="ID_887913469" CREATED="1496973939608" MODIFIED="1496974004034">
+<node TEXT="&#x5e94;&#x7528;&#x6848;&#x4f8b;" POSITION="right" ID="ID_887913469" CREATED="1496973939608" MODIFIED="1496974004034">
 <edge COLOR="#0000ff"/>
 <node TEXT="&#x91d1;&#x878d;" ID="ID_179951447" CREATED="1496973959976" MODIFIED="1496974010768">
 <node TEXT="&#x5bc6;&#x7801;&#x5b66;&#x8d27;&#x5e01;" ID="ID_960073170" CREATED="1496974021192" MODIFIED="1496974041689"/>
@@ -310,6 +306,7 @@
 <node TEXT="&#x4e2d;&#x5357;&#x5efa;&#x8bbe;&#x643a;&#x5317;&#x5927;&#x8352;&#x6253;&#x9020;&#x5168;&#x7403;&#x9996;&#x4e2a;&#x533a;&#x5757;&#x94fe;&#x519c;&#x573a; 20170425" ID="ID_1299180842" CREATED="1496987123251" MODIFIED="1496987138834"/>
 <node TEXT="BCIA-&#x57fa;&#x4e8e;&#x533a;&#x5757;&#x94fe;&#x7684;&#x7269;&#x8054;&#x7f51;&#x6570;&#x636e;&#x76d1;&#x6d4b;&#x89e3;&#x51b3;&#x65b9;&#x6848;" ID="ID_1460643277" CREATED="1496987158770" MODIFIED="1496987158770"/>
 <node TEXT="&#x6c83;&#x5c14;&#x739b;&#x901a;&#x8fc7;&#x533a;&#x5757;&#x94fe;&#x4fdd;&#x8bc1;&#x98df;&#x54c1;&#xff08;&#x732a;&#x8089;&#xff09;&#x5b89;&#x5168;" ID="ID_745500382" CREATED="1496987271111" MODIFIED="1496987296745"/>
+<node TEXT="&#x8fea;&#x62dc;&#x8ba1;&#x5212;&#x6210;&#x4e3a;&#x4e16;&#x754c;&#x9996;&#x4e2a;&#x533a;&#x5757;&#x94fe;&#x56fd;&#x5bb6;" ID="ID_1538221921" CREATED="1497319521198" MODIFIED="1497319535594" LINK="http://www.sohu.com/a/138027335_325319"/>
 </node>
 </node>
 <node TEXT="&#x5176;&#x5b83;" POSITION="left" ID="ID_1019103074" CREATED="1496988175560" MODIFIED="1496988179688">
@@ -337,7 +334,6 @@
     </ul>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
